@@ -1,4 +1,4 @@
-<php#airtime
+airtime<php
 $sessionID=$-POST[XXX];
 $service code=$-POST[*384*376#];
 $phone NO=$-POST[0727302209];
